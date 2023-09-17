@@ -1,4 +1,7 @@
 /* common Style */
+*{
+    margin: 0;
+}
 body {
     font-family: 'Open Sans', sans-serif;
 }
@@ -102,6 +105,52 @@ main {
 .skill {
     width: 140px;
     font-size: 10px;
-    background-color: #fcf8f6;
+    background-color: #fcf8f6;    
+}
+/* sumarry section */
+.sumarry {
+    font-size: 9px;
+    color: #4f4141;
+}
+.sumarry p {
+    font-size: 8px;
+    width: 223px;
+    margin: 8px 0 18px 0;
+
+   
+}
+.sumarry-title {
+    width: 600px;
+    margin: auto;
+    text-align: center;
+    padding: 23px;
+    font-weight: 800;
+    font-size: 18px;
+}
+.sumarry-group-one {
+    display: flex;
+    padding: 0 120px 0 120px;
+    margin-top: 18px;
+    text-align: center;
+    justify-content: center;
+}
+.group-one-one {
+    margin-right: 23px;
+    font-size: 14px;
+}
+.group-one-two {
+    margin-right: 23px;
+    font-size: 14px;
+}
+.horizontal-bar {
+    width: 570px;
+    margin: auto;
+    color: #dcd5d5;
     
+}
+.btn-dawnload {
+ margin: 8px 150px 8px 450px;
+ background-color: #FD6E0A;
+ padding: 7px;
+ border-radius: 5px;
 }
