@@ -44,6 +44,7 @@ nav a {
     background-repeat: no-repeat;
     background-position: bottom right;
     background-size: 480px 280px;
+    margin-right: 100px;
 }
 .banner {
     padding: 30px 30px 0px 150px;
