@@ -53,6 +53,8 @@ nav a {
 .banner .profile-pic {
     width: 350px;
     height: 320px;
+    display: flex;
+    justify-content: space-between;
 
 }
 .banner-greeting {
