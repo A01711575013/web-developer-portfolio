@@ -90,3 +90,18 @@ main {
 .about-nfo {
     text-align: center;
 }
+#what-i-do {
+    padding: 30px 150px;
+}
+.skill-contanier {
+    display: flex;
+    justify-content: space-around;
+    padding: 0 120px 120px 120px;
+    margin-top: 12px;
+}
+.skill {
+    width: 140px;
+    font-size: 10px;
+    background-color: #fcf8f6;
+    
+}
